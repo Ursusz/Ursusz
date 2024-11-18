@@ -1,16 +1,21 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNib2lsbm5vNXB4d29obHRqMm9zaGNmc3NjbXFjZDgwZDcxenMzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100"/>
+</div>
 
-<!--
-**Ursusz/Ursusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hey, there! 👋</h2>
 
-Here are some ideas to get you started:
+<div align="center">
+  <p>👨‍💻 I am Ursu, a Computer Science & Engineering student pursuing a bachelor's degree at <a href="https://unibuc.ro">University of Bucharest</a>.</p>
+  <p>📱💬🌐 Ways to contact me</p>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/alexandru-petrut-ursu-706362297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.github.com/Ursusz/"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  
+</div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ursusz&mode=weekly" alt="GitHub Streak"/></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p> 🚀😀 Currently I am highly dedicated to learning new skills and actively participating in diverse projects to expand my knowledge and experience. </p>
+  <a href="mailto:alexandrupetrutursu@gmail.com">📧 GMail Contact: alexandrupetrutursu@gmail.com</a>
+</div>

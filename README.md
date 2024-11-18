@@ -5,7 +5,7 @@
 <h2 align="center">Hey, there! 👋</h2>
 
 <div align="center">
-  <p>👨‍💻 I am Ursu, a Computer Science & Engineering student pursuing a bachelor's degree at <a href="https://unibuc.ro">University of Bucharest</a>.</p>
+  <p>👨‍💻 I am Ursu, a Computer Engineering student pursuing a bachelor's degree at <a href="https://unibuc.ro">University of Bucharest</a>.</p>
   <p>📱💬🌐 Ways to contact me</p>
   <div id="badges">
   <a href="https://www.linkedin.com/in/alexandru-petrut-ursu-706362297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>

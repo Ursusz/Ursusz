@@ -8,8 +8,8 @@
   <p>👨‍💻 I am Ursu, a Computer Engineering student pursuing a bachelor's degree at <a href="https://unibuc.ro">University of Bucharest</a>.</p>
   <p>📱💬🌐 Ways to contact me</p>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/alexandru-petrut-ursu-706362297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.github.com/Ursusz/"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://www.linkedin.com/in/alexandru-petrut-ursu-706362297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.github.com/Ursusz/" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
   
 </div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ursusz&mode=weekly" alt="GitHub Streak"/></a>

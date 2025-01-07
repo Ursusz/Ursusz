@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 
-  
-</div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ursusz&mode=weekly" alt="GitHub Streak"/></a>
-</div>
 
 <div>
   <p> 😀 I am highly dedicated to learning new skills and actively participating in diverse projects to expand my knowledge and experience. </p>

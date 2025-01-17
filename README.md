@@ -18,5 +18,5 @@
 
 <div>
   <p> 😀 I am highly dedicated to learning new skills and actively participating in diverse projects to expand my knowledge and experience. </p>
-  <a href="mailto:alexandrupetrutursu@gmail.com">📧 GMail Contact: apetrut7@gmail.com</a>
+  <a href="mailto:apetrut7@gmail.com">📧 GMail Contact: apetrut7@gmail.com</a>
 </div>
